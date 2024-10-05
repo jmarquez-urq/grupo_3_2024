@@ -1,0 +1,37 @@
+* {
+    font-family: "Maven Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.titulo {
+    width: 100%;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.losContainers {
+    border: 2px solid #00771a;
+    min-height: 200px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+.loginContainer {
+    min-height: 400px;
+}
+
+.userContainer {
+    min-height: 400px;
+    width: 700px;
+}
+
+.adminContainer {
+    min-height: 200px;
+    width: 700px;
+}
+
+.tablita {
+    text-overflow: ellipsis;
+}
